@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "الثغور السياسية"
             }
+          },
+          {
+            "id": "085418e7ea7840f8",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "conflict-files-obsidian-git.md",
+                "bFile": "conflict-files-obsidian-git.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: conflict-files-obsidian-git  (Working Tree)"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -156,13 +171,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "حصر الثغور/الثغور السياسية.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of الثغور السياسية"
+              "title": "Outline"
             }
           },
           {
@@ -194,8 +208,23 @@
       "bases:Create new base": false
     }
   },
-  "active": "a3aaab53b7bd49f1",
+  "active": "085418e7ea7840f8",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "حصر الثغور/الثغور السياسية.md",
+    "تفنيد ثغور غير العرب من المسلمين/Untitled.md",
+    "تفنيد ثغور غير العرب من المسلمين",
+    "تفنيد الثغور المادية والإقتصادية/Untitled.md",
+    "تفنيد الثغور المادية والإقتصادية",
+    "تفنيد الثغور الفكرية/Untitled.md",
+    "تفنيد الثغور الفكرية",
+    "تفنيد الثغور العلمية/Untitled.md",
+    "تفنيد الثغور العلمية",
+    "تفنيد الثغور السياسية/Untitled.md",
+    "تفنيد الثغور السياسية",
+    "تفنيد الثغور الدينية التعبدية/Untitled.md",
+    "تفنيد الثغور الدينية التعبدية",
+    "تفنيد الثغور الإجتماعية/الفحش.md",
     "حصر الثغور/الثغور الدينية التعبدية.md",
     "حصر الثغور/الثغور الإجتماعية.md",
     "التعليم.md",
@@ -206,20 +235,12 @@
     "المقدمة.md",
     "UntitledUntitled.md",
     "قائمة المهام.md",
-    "تفنيد الثغور العلمية/Untitled.md",
     "قوالب",
     "Untitled.base",
     "حصر الثغور/الثغور الفكرية.md",
-    "تفنيد ثغور غير العرب من المسلمين",
-    "تفنيد الثغور الدينية التعبدية",
-    "تفنيد الثغور العلمية",
-    "تفنيد الثغور الفكرية",
-    "تفنيد الثغور السياسية",
-    "تفنيد الثغور المادية والإقتصادية",
     "تفنيد الثغور الإجتماعية",
     "حصر الثغور/الثغور العلمية.md",
     "حصر الثغور/ثغور غير العرب من المسلمين.md",
-    "حصر الثغور/الثغور السياسية.md",
     "Welcome.md",
     "حصر الثغور"
   ]
