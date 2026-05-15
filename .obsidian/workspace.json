@@ -11,10 +11,14 @@
             "id": "2090f0849dee34bc",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "حصر الثغور/الثغور السياسية.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "الثغور السياسية"
             }
           }
         ]
@@ -152,16 +156,17 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "حصر الثغور/الثغور السياسية.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of الثغور السياسية"
             }
           },
           {
-            "id": "9cb3a19dd9ce244c",
+            "id": "9bd274a318fc4089",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -175,30 +180,33 @@
       }
     ],
     "direction": "horizontal",
-    "width": 721.5
+    "width": 238.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "bases:Create new base": false
     }
   },
-  "active": "2090f0849dee34bc",
+  "active": "a3aaab53b7bd49f1",
   "lastOpenFiles": [
-    "قوالب/مثال توضيحي.md",
-    "تفنيد الثغور الإجتماعية/المغالاة والتأخر في الزواج.md",
+    "حصر الثغور/الثغور الدينية التعبدية.md",
     "حصر الثغور/الثغور الإجتماعية.md",
+    "التعليم.md",
+    "حصر الثغور/الثغور المادية و الإقتصادية.md",
+    "تفنيد الثغور الإجتماعية/المغالاة والتأخر في الزواج.md",
+    "قوالب/تقرير عن [اسم الثغر].md",
+    "قوالب/مثال توضيحي.md",
     "المقدمة.md",
     "UntitledUntitled.md",
     "قائمة المهام.md",
     "تفنيد الثغور العلمية/Untitled.md",
-    "قوالب/تقرير عن [اسم الثغر].md",
     "قوالب",
     "Untitled.base",
     "حصر الثغور/الثغور الفكرية.md",
@@ -210,10 +218,8 @@
     "تفنيد الثغور المادية والإقتصادية",
     "تفنيد الثغور الإجتماعية",
     "حصر الثغور/الثغور العلمية.md",
-    "حصر الثغور/الثغور المادية و الإقتصادية.md",
     "حصر الثغور/ثغور غير العرب من المسلمين.md",
     "حصر الثغور/الثغور السياسية.md",
-    "حصر الثغور/الثغور الدينية التعبدية.md",
     "Welcome.md",
     "حصر الثغور"
   ]
