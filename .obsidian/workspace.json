@@ -4,24 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "bd5de80f9f9940cf",
+        "id": "36fb46f5c6592150",
         "type": "tabs",
         "children": [
           {
-            "id": "2090f0849dee34bc",
+            "id": "2a08a674b993f6ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "تفنيد ثغور غير العرب من المسلمين/Untitled.md",
+                "file": "المقدمة.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "المقدمة"
+            }
+          },
+          {
+            "id": "bb1c8f9e2006deb0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "حصر الثغور/الثغور الإجتماعية.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "الثغور الإجتماعية"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -41,7 +76,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -78,7 +115,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 219.5
+    "width": 412.5
   },
   "right": {
     "id": "21582aa9f1eede28",
@@ -94,7 +131,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "حصر الثغور/الثغور الفكرية.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +140,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for الثغور الفكرية"
+              "title": "Backlinks"
             }
           },
           {
@@ -113,12 +149,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "حصر الثغور/الثغور الفكرية.md",
+                "file": "حصر الثغور/الثغور الإجتماعية.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from الثغور الفكرية"
+              "title": "Outgoing links from الثغور الإجتماعية"
             }
           },
           {
@@ -179,7 +215,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 467.5
+    "width": 311.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,43 +226,48 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "docx-exporter:Export current note to DOCX": false
     }
   },
-  "active": "2090f0849dee34bc",
+  "active": "a3aaab53b7bd49f1",
   "lastOpenFiles": [
-    "تفنيد الثغور المادية والإقتصادية/Untitled.md",
-    "تفنيد ثغور غير العرب من المسلمين/Untitled.md",
-    "تفنيد الثغور الفكرية/Untitled.md",
-    "تفنيد الثغور العلمية/Untitled.md",
-    "تفنيد الثغور السياسية/Untitled.md",
-    "تفنيد الثغور السياسية/Untitled 1.md",
-    "تفنيد الثغور الدينية التعبدية/Untitled.md",
-    "حصر الثغور/الثغور الإجتماعية.md",
-    "تفنيد الثغور الإجتماعية/الفحش.md",
-    "تفنيد الثغور الإجتماعية/المغالاة والتأخر في الزواج.md",
-    "().md",
-    "قوالب/تقرير عن [اسم الثغر].md",
+    "files/article-pornography.html",
+    "files/articles.html",
+    "files/sitemap.xml",
+    "files/robots.txt",
+    "files/article-template.html",
+    "files/methodology.html",
+    "files/contribute.html",
+    "files/assets/star_tile.svg",
+    "files/assets",
+    "files/style.css",
+    "files/script.js",
+    "files/index.html",
     "قوالب/مثال توضيحي.md",
+    "قوالب/تقرير عن [اسم الثغر].md",
+    "تفنيد الثغور العلمية/قلة الواقفين على علم العقيدة الصحيحة.md",
+    "تفنيد الثغور العلمية/قلة الواقفين على علم الحديث والإسناد.md",
+    "تفنيد الثغور العلمية/قلة الواقفين على ثغر مقارنة الأديان و دعوة غير المسلمين على علم وبصيرة.md",
+    "تفنيد الثغور العلمية/قلة الواقفين على ترجمة الإنتاجات العلمية بشتى لغاتها للعربية.md",
+    "تفنيد الثغور العلمية/قلة الواقفين علم الفقه.md",
+    "تفنيد الثغور العلمية/قلة الواقفين علم التفسير.md",
+    "تفنيد الثغور العلمية/الحاجة الشديدة إلى علماء أفذاذ في مجال فقه السياسة الشرعية.md",
+    "تفنيد الثغور العلمية/قلة البحث والتأليف في التاريخ الإسلامي.md",
+    "تفنيد الثغور العلمية/الحاجة إلى نموذج إدارة مالية إسلامية مستقلة في ظل الواقع المعاصر.md",
+    "حصر الثغور/الثغور الإجتماعية.md",
     "حصر الثغور/الثغور الدينية التعبدية.md",
     "حصر الثغور/الثغور السياسية.md",
     "حصر الثغور/الثغور العلمية.md",
     "حصر الثغور/الثغور المادية و الإقتصادية.md",
-    "حصر الثغور/ثغور غير العرب من المسلمين.md",
     "حصر الثغور/الثغور الفكرية.md",
-    "المقدمة.md",
-    "UntitledUntitled.md",
-    "قائمة المهام.md",
-    "قوالب",
-    "Untitled.base",
-    "تفنيد ثغور غير العرب من المسلمين",
-    "تفنيد الثغور الدينية التعبدية",
-    "تفنيد الثغور العلمية",
-    "تفنيد الثغور الفكرية",
-    "تفنيد الثغور السياسية",
-    "تفنيد الثغور المادية والإقتصادية",
-    "تفنيد الثغور الإجتماعية",
-    "Welcome.md",
-    "حصر الثغور"
+    "حصر الثغور/ثغور غير العرب من المسلمين.md",
+    "تفنيد الثغور الإجتماعية/انتشار المواد الإباحية.md",
+    "تفنيد الثغور الإجتماعية/إهمال وسوء تربية أبناء المسلمين.md",
+    "تفنيد الثغور الإجتماعية/الاختلاط بين الذكور والإناث.md",
+    "تفنيد الثغور الإجتماعية/انتشار ظاهرة الانتحار.md",
+    "تفنيد الثغور الإجتماعية/انتشار السرقة.md",
+    "تفنيد الثغور الإجتماعية/انتشار الربا.md",
+    "تفنيد الثغور الإجتماعية/انتشار الدراما الرومانسية.md"
   ]
 }

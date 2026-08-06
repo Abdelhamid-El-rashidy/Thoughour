@@ -1,1 +1,20 @@
-{}
+{
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": false,
+  "promptDelete": false,
+  "focusNewTab": true,
+  "rightToLeft": true,
+  "showLineNumber": false,
+  "vimMode": false,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "./ملحقات",
+  "newLinkFormat": "shortest",
+  "uriCallbacks": false,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}
