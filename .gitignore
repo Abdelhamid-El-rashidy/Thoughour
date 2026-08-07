@@ -1,6 +1,23 @@
-node_modules/
-dist/
-.DS_Store
-*.local
-.env
-.env.*
+# Ignore everything by default (Obsidian vault, notes, docs, etc.)
+*
+
+# Keep this file
+!.gitignore
+
+# Website / GitHub Pages
+!.github/
+!.github/**
+
+!index.html
+!package.json
+!package-lock.json
+!vite.config.js
+
+!public/
+!public/**
+
+!scripts/
+!scripts/**
+
+!src/
+!src/**
