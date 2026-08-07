@@ -1,0 +1,12 @@
+@import '../files/style.css';
+
+.app-main{ min-height:60vh; }
+.language-switch{ margin-inline-start:auto; }
+.topic-directory{ max-width:1080px; }
+.category-layout{ max-width:1080px; margin:0 auto; padding:48px 24px 88px; }
+.category-layout .directory-tools{ padding:0; max-width:none; }
+.topic-card{ display:flex; justify-content:space-between; align-items:center; gap:14px; padding:14px 16px; border-top:1px dotted var(--parchment-line); }
+.topic-card:first-child{ border-top:0; }
+.topic-card__title{ font-weight:600; }
+.topics-panel{ background:var(--parchment); border:1px solid var(--parchment-line); border-radius:var(--radius-m); box-shadow:0 3px 10px rgba(36,28,19,.06); }
+@media (max-width:600px){ .topic-card{ align-items:flex-start; flex-direction:column; } }
